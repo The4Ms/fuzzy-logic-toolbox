@@ -1,0 +1,6 @@
+﻿-rafactor text input
+	-seperate into functions for each part
+	-take input values and the targeted predicted variable from separate file
+
+-refactor inference engine
+	-seperate the fuzzy system encapsulation from the inference and reasoning process
